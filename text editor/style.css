@@ -1,0 +1,12 @@
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+#color,#font,.bold,.italic{
+    border: 2px solid #fff;
+    width: 5rem;
+    margin-right: 50px;
+    margin-left:10px ;
+}
